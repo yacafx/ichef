@@ -1,2 +1,2 @@
-# ichef
-ecommerce diplomaed web app
+# iChef
+eCommerce diplomaed web app
